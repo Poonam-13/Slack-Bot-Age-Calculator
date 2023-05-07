@@ -19,18 +19,22 @@ git clone : https://github.com/Poonam-13/Slack-Bot-Age-Calculator.git
 
 2.Connecting to Slack from Golang:
 
-``` mkdir slack-bot
+``` 
+mkdir slack-bot
 
 cd slack-bot
 
-go mod init ```
+go mod init 
+```
 
 
 3. Install the required dependencies:
 
-``` go get github.com/slack-go/slack
+``` 
+go get github.com/slack-go/slack
 
-go get -u github.com/poonam-13 ```
+go get -u github.com/poonam-13 
+```
 
 
 4. Set up a new Slack app and obtain a bot token. You can create a new Slack app at [api.slack.com/apps](https://api.slack.com/apps).
