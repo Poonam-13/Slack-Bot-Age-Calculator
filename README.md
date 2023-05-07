@@ -8,7 +8,6 @@ In this Golang project , we’re building a slack bot that calculates age. To ca
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
