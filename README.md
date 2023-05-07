@@ -29,8 +29,7 @@ go mod init ```
 
 3. Install the required dependencies:
 
-``` bash
-go get github.com/slack-go/slack
+``` go get github.com/slack-go/slack
 
 go get -u github.com/poonam-13 ```
 
