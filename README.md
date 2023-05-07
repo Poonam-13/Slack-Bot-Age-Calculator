@@ -19,8 +19,7 @@ git clone : https://github.com/Poonam-13/Slack-Bot-Age-Calculator.git
 
 2.Connecting to Slack from Golang:
 
-``` bash
-mkdir slack-bot
+``` mkdir slack-bot
 
 cd slack-bot
 
