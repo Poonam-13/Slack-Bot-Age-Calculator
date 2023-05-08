@@ -68,7 +68,7 @@ Contributions are welcome! If you'd like to contribute to the project.
 
 This project utilizes the Slack API and the `slack-go` library. See the [Slack API documentation](https://api.slack.com) and [slack-go repository](https://github.com/slack-go/slack) for more information.
 
-## 🔗Contact with me: 📞
+## 🔗Connect with me: 📞
 
 If you have any questions, feedback, or suggestions, please feel free to reach out:
 <p align="left">
